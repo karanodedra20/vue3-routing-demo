@@ -12,7 +12,7 @@ npm install
 npm run serve
 ```
 
-### Run json server and watch changes
+### Run json server to get the data
 
 ```
 npm run json
